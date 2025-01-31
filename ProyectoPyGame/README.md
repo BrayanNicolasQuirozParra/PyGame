@@ -11,9 +11,9 @@ En este juego, tu objetivo es esquivar los peligrosos charcos de aceite que apar
 * Menú principal: Un menú fácil de usar para iniciar el juego y consultar los controles.
 
 # Controles
-*Movimiento: Flechas izquierda (←) y derecha (→).
-*Disparar: Barra espaciadora (Space).
-*Iniciar juego: Presiona cualquier tecla en el menú principal.
+* Movimiento: Flechas izquierda (←) y derecha (→).
+* Disparar: Barra espaciadora (Space).
+* Iniciar juego: Presiona cualquier tecla en el menú principal.
 
 # Requisitos del sistema
 * Python 3.x instalado.
